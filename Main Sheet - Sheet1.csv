@@ -1,0 +1,66 @@
+Date,Conversation,Location,Source,Duration,Weight,Label,Target
+"Feb 18, 1971",451-001,Oval Office,Nixon,12,14,White House personnel and admin matters,"Ehrlichman, Butterfield"
+"Feb 18, 1971",451-004,Oval Office,Nixon,15,13,"Foreign policy, media strategy","Kissinger, Safire, Ziegler"
+"Mar 23, 1971",472-004,Oval Office,Nixon,18,21,Milk price supports and political implications,"Ehrlichman, Connally, Hardin"
+"Mar 23, 1971",472-021,Oval Office,Nixon,20,21,Dairy industry policy and election tactics,"Connally, Ehrlichman, Hardin"
+"Apr 19, 1971",482-017,Oval Office,Nixon,22,14,Economic policy and international relations,"Ehrlichman, Shultz"
+"Apr 21, 1971",485-004,Oval Office,Nixon,14,6,Political and legal strategy,Mitchell
+"May 5, 1971",491-014,Oval Office,Nixon,13,8,Domestic policy and administration,Haldeman
+"May 6, 1971",	493-007,Oval Office,Nixon,25,6,Global food production and agri innovation,"Hardin, Borlaug, MacGregor"
+"May 13, 1971",498-003,Oval Office,Nixon,17,1,"Mexico healthcare, US investment prospects",Dr. DuVal
+"June 2, 1971",510-005,Oval Office,Nixon,19,3,Economic and trade policy,Connally
+"June 4, 1971",512-016,Oval Office,Nixon,16,7,Legal/judicial appointments,"Specter, Mitchell"
+"June 7, 1971",515-005,Oval Office,Nixon,14,20,Domestic policy coordination,"Ehrlichman, Haldeman"
+"June 29, 1971",517-025,Oval Office,Nixon,15,12,Political opposition and policy response,Ehrlichman
+"July 8, 1971",520-007,Oval Office,Nixon,20,11,Vietnam War strategy and diplomacy,Kissinger
+"July 16, 1971",525-014,Oval Office,Nixon,13,8,Campaign and election planning,Haldeman
+"July 23, 1971",530-019,Oval Office,Nixon,14,6,Supreme Court nominee discussion,Mitchell
+"July 30, 1971",535-008,Oval Office,Nixon,21,11,Policy on China and Cold War diplomacy,Kissinger
+"	Sept 15, 1971",542-010,Oval Office,Nixon,16,8,"Domestic policy, budget, legislative planning",Haldeman
+"	Sept 22, 1971",	544-003,Oval Office,Nixon,20,11,National security and Southeast Asia policy,Kissinger
+"Oct 5, 1971",550-003,Oval Office,Nixon,18,12,Vietnam updates and national security,Ehrlichman
+"Oct 12, 1971",552-006,Oval Office,Nixon,15,14,Political campaign strategy and media relations,"Mitchell, Haldeman"
+"Oct 29, 1971",556-007,Oval Office,Nixon,22,11,Middle East diplomacy and peace talks,Kissinger
+"Nov 10, 1971",560-009,Oval Office,Nixon,24,11,Middle East diplomacy and Soviet relations,Kissinger
+"Nov 22, 1971",563-011,Oval Office,Nixon,16,12,Domestic law enforcement and urban policy,Ehrlichmann
+"Dec 1, 1971",566-005,Oval Office,Nixon,14,8,Budget discussions and 1972 fiscal planning,Haldeman
+"Dec 9, 1971",570-012,Oval Office,Nixon,20,11,Strategic talks on détente with Soviet Union,Kissinger
+"Dec 15, 1971",572-008,Oval Office,Nixon,15,6,Legal strategies for upcoming political challenges,Mitchell
+"Dec 20, 1971",575-013,Oval Office,Nixon,1,12,Domestic policy review and legislative agenda,Ehrlichmann
+"Dec 27, 1971",	578-004,Oval Office,Nixon,21,11,Foreign policy planning and 1972 diplomatic priorities,Kissinger
+"January 3, 1972",34–001,Oval Office,Nixon,38,8,Discussion on political strategy and media relations,Haldeman
+"January 15, 1972",34–015,Oval Office,Nixon,30,6,Review of upcoming legislative agenda,Ehrlichmann
+"February 5, 1972",34–030,Oval Office,Nixon,36,7,Briefing on Vietnam peace talks,Kissinger
+"February 15, 1972",34–045,White House Telephone,Nixon,27,5,Conversation about media coverage of administration policies,Colson
+"March 1, 1972",34–060,Oval Office,Nixon,41,6,Discussion on Watergate investigation,Dean
+"March 20, 1972",34–075,White House Telephone,Nixon,22,4,Coordination of press statements,Ziegler
+"April 10, 1972",34–090,Oval Office,Nixon,35,8,Strategy session for upcoming election campaign,Haldeman
+"April 25, 1972",34–105,Oval Office,Nixon,28,6,Review of legislative achievements and challenges,Ehrlichmann
+"May 5, 1972",34–120,Oval Office,Nixon,33,7,Update on Middle East peace negotiations,Kissinger
+"May 15, 1972",34–135,White House Telephone,Nixon,26,5,Discussion on public relations strategies,Colson
+"June 1, 1972",34–150,Oval Office,Nixon,42,6,Update on Watergate investigation,Dean
+"June 10, 1972",34–165,White House Telephone,Nixon,23,4,Coordination of press coverage for upcoming events,Ziegler
+"July 1, 1972",34–180,Oval Office,Nixon,37,8,Strategy meeting on legislative priorities,Haldeman
+"July 15, 1972",34–195,Oval Office,Nixon,31,6,Review of campaign progress and media coverage,Ehrlichmann
+"August 1, 1972",34–210,Oval Office,Nixon,34,7,Update on international relations and foreign policy,Kissinger
+"August 15, 1972",34–225,White House Telephone,Nixon,29,5,Discussion on political strategy and media relations,Colson
+"September 1, 1972",34–240,Oval Office,Nixon,40,6,Update on Watergate investigation,Dean
+"September 15, 1972",34–255,White House Telephone,Nixon,24,4,Coordination of press statements,Ziegler
+"October 1, 1972",34–270,Oval Office,Nixon,39,8,Strategy session for upcoming election campaign,Haldeman
+"November 1, 1972",34–285,Oval Office,Nixon,32,7,Final campaign efforts,Kissinger
+"January 2, 1973",035-051,White House Telephone,Nixon,7,3,Discussion on Supreme Court appointments,Chief Justice Burger
+"January 3, 1973",035-078,White House Telephone,Nixon,20,5,Discussion on media and press relationships,Colson
+"January 26, 1973",113-004,Cabinet Room,"Nixon, Congressional Leaders",53,9,Bipartisan strategy meeting on legislation and Vietnam,Agnew
+"March 14, 1973",419-034,Old Executive Office Building,Nixon,75,8,Executive privilege & Watergate fallout,"Ziegler, Dean,Sanchez,Kissinger"
+"March 14, 1973",419-035,Old Executive Office Building,Nixon,75,8,Continued discussion on same subjects,"Ziegler, Dean,Sanchez,Kissinger"
+"April 17, 1973",898-6,	Oval Office,Nixon,3,5,Discussion about Watergate legal strategy,Haldeman
+"April 17, 1973",898-7,	Oval Office,Nixon,3,5,Follow-up on legal funding for defendants,Haldeman
+"April 17, 1973",898-12,Oval Office,Nixon,12,6,"Talks on hush money, Dean’s loyalty, media pressure","Haldeman,Ziegler"
+"April 17, 1973",898-13,	Oval Office,Nixon,12,6,Continued crisis management after Dean's revelations,"Haldeman,Ziegler"
+"April 19, 1973",902-9,	Oval Office,Nixon,7,4,Blackmail fears and Watergate strategy,Ehrlichmann
+"April 19, 1973",902-10,	Oval Office,Nixon,7,4,Continuation on cover-up exposure and political fallout,Ehrlichmann
+"April 25, 1973",430-023,Old Executive Office Building,Nixon,68,6,Justice Dept. and grand jury conflicts on Watergate,Petersen
+"April 25, 1973",430-024,Old Executive Office Building,Nixon,68,6,Continued legal maneuvering and leaks,Petersen
+"May 29, 1973",039-034,	White House Telephone,Nixon,1,2,Request for aide Manolo Sanchez,WH  Operator
+"May 29, 1973",039-035,	White House Telephone,Nixon,1,2,Follow-up on Sanchez,WH  Operator
+"June 14, 1973",446-006a,Old Executive Office Building,Nixon,103,7,"Economy speech prep, public confidence, and Vietnam","Buzhardt, Ziegler, Kissinger"
